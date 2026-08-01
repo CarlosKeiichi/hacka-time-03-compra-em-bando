@@ -1,0 +1,16 @@
+{
+  "_leia": "Impressao digital do esqueleto entregue pela organizacao. O placar do evento usa isto para saber quando o time comecou a escrever codigo proprio. Nao edite a mao.",
+  "arquivos": {
+    "package.json": "60f9a4ad0a2b5b65",
+    "tsconfig.json": "f6c45b018bb65e85",
+    "next.config.mjs": "3e2b4a675deed54f",
+    ".env.example": "f3113cc797a33177",
+    "LEIA-ME-APP.md": "17d2e3741aec1f29",
+    "lib/dados.ts": "4424db65220450f3",
+    "app/api/claude/route.ts": "456dda62723ad86b",
+    "app/layout.tsx": "652955e5ff95809f",
+    "app/globals.css": "88a63e3513709361",
+    "app/page.tsx": "e492f3ea79733b37",
+    "app/TesteClaude.tsx": "b9577e400016e145"
+  }
+}
