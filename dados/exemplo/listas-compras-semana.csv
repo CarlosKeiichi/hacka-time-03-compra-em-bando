@@ -1,0 +1,168 @@
+semana_referencia,restaurante,categoria,item,unidade_medida,quantidade,preco_unitario_pago_brl,valor_total_brl
+2026-07-25,Restaurante A,Bebidas,Agua mineral 500ml,un,45,1.55,69.75
+2026-07-25,Restaurante A,Bebidas,Cerveja long neck,un,28,4.02,112.56
+2026-07-25,Restaurante A,Bebidas,Refrigerante 2L,un,23,8.21,188.83
+2026-07-25,Restaurante A,Carnes,Acem,kg,12.2,30.65,373.93
+2026-07-25,Restaurante A,Carnes,Bacon em cubos,kg,21.4,32.26,690.36
+2026-07-25,Restaurante A,Carnes,Coxa e sobrecoxa,kg,17.1,12.73,217.68
+2026-07-25,Restaurante A,Carnes,File de frango,kg,13.6,18.15,246.84
+2026-07-25,Restaurante A,Carnes,Linguica toscana,kg,13.6,24.22,329.39
+2026-07-25,Restaurante A,Descartaveis,Embalagem marmitex,un,39,1.13,44.07
+2026-07-25,Restaurante A,Descartaveis,Guardanapo pacote,un,43,4.25,182.75
+2026-07-25,Restaurante A,Descartaveis,Luva descartavel cx,un,42,26.53,1114.26
+2026-07-25,Restaurante A,Hortifruti,Alface crespa,un,30,3.58,107.40
+2026-07-25,Restaurante A,Hortifruti,Alho,kg,28.6,32.38,926.07
+2026-07-25,Restaurante A,Hortifruti,Batata,kg,15.8,4.89,77.26
+2026-07-25,Restaurante A,Hortifruti,Cebola,kg,19.0,4.05,76.95
+2026-07-25,Restaurante A,Hortifruti,Tomate,kg,27.9,7.92,220.97
+2026-07-25,Restaurante A,Laticinios,Creme de leite,L,22.7,11.79,267.63
+2026-07-25,Restaurante A,Laticinios,Leite integral,L,9.1,5.20,47.32
+2026-07-25,Restaurante A,Laticinios,Manteiga,kg,22.2,46.25,1026.75
+2026-07-25,Restaurante A,Laticinios,Ovos,dz,68,12.50,850.00
+2026-07-25,Restaurante A,Laticinios,Queijo mussarela,kg,22.4,40.39,904.74
+2026-07-25,Restaurante A,Laticinios,Queijo prato,kg,24.2,37.41,905.32
+2026-07-25,Restaurante A,Laticinios,Requeijao,kg,10.1,27.53,278.05
+2026-07-25,Restaurante A,Limpeza,Desinfetante 5L,un,51,18.59,948.09
+2026-07-25,Restaurante A,Limpeza,Detergente 5L,un,48,20.53,985.44
+2026-07-25,Restaurante A,Limpeza,Saco de lixo 100L,un,34,32.42,1102.28
+2026-07-25,Restaurante A,Mercearia,Acucar refinado,kg,13.5,4.61,62.24
+2026-07-25,Restaurante A,Mercearia,Arroz branco tipo 1,kg,19.0,5.93,112.67
+2026-07-25,Restaurante A,Mercearia,Azeite de oliva,L,21.3,42.46,904.40
+2026-07-25,Restaurante A,Mercearia,Farinha de trigo,kg,26.7,4.61,123.09
+2026-07-25,Restaurante A,Mercearia,Feijao carioca,kg,23.2,7.14,165.65
+2026-07-25,Restaurante A,Mercearia,Massa seca,kg,23.6,7.52,177.47
+2026-07-25,Restaurante A,Mercearia,Molho de tomate,kg,27.9,9.47,264.21
+2026-07-25,Restaurante A,Mercearia,Oleo de soja,L,13.0,7.96,103.48
+2026-07-25,Restaurante A,Mercearia,Sal refinado,kg,24.6,2.26,55.60
+2026-07-25,Restaurante B,Bebidas,Agua mineral 500ml,un,13,1.85,24.05
+2026-07-25,Restaurante B,Bebidas,Cerveja long neck,un,10,4.77,47.70
+2026-07-25,Restaurante B,Bebidas,Refrigerante 2L,un,24,9.22,221.28
+2026-07-25,Restaurante B,Carnes,Acem,kg,5.9,35.51,209.51
+2026-07-25,Restaurante B,Carnes,Bacon em cubos,kg,7.4,39.02,288.75
+2026-07-25,Restaurante B,Carnes,Contrafile,kg,11.0,52.96,582.56
+2026-07-25,Restaurante B,Carnes,Coxa e sobrecoxa,kg,10.0,13.85,138.50
+2026-07-25,Restaurante B,Carnes,File de frango,kg,11.2,22.01,246.51
+2026-07-25,Restaurante B,Carnes,Linguica toscana,kg,5.2,27.65,143.78
+2026-07-25,Restaurante B,Descartaveis,Guardanapo pacote,un,9,5.02,45.18
+2026-07-25,Restaurante B,Hortifruti,Alface crespa,un,28,3.95,110.60
+2026-07-25,Restaurante B,Hortifruti,Batata,kg,9.3,5.72,53.20
+2026-07-25,Restaurante B,Hortifruti,Cebola,kg,10.4,4.83,50.23
+2026-07-25,Restaurante B,Hortifruti,Cenoura,kg,7.8,5.29,41.26
+2026-07-25,Restaurante B,Hortifruti,Tomate,kg,10.9,8.59,93.63
+2026-07-25,Restaurante B,Laticinios,Creme de leite,L,4.2,14.66,61.57
+2026-07-25,Restaurante B,Laticinios,Leite integral,L,3.8,6.01,22.84
+2026-07-25,Restaurante B,Laticinios,Manteiga,kg,3.0,57.24,171.72
+2026-07-25,Restaurante B,Laticinios,Ovos,dz,17,14.41,244.97
+2026-07-25,Restaurante B,Laticinios,Queijo mussarela,kg,10.1,47.96,484.40
+2026-07-25,Restaurante B,Laticinios,Queijo prato,kg,4.1,46.27,189.71
+2026-07-25,Restaurante B,Laticinios,Requeijao,kg,7.4,32.03,237.02
+2026-07-25,Restaurante B,Limpeza,Desinfetante 5L,un,22,22.60,497.20
+2026-07-25,Restaurante B,Limpeza,Detergente 5L,un,14,23.78,332.92
+2026-07-25,Restaurante B,Limpeza,Saco de lixo 100L,un,9,38.06,342.54
+2026-07-25,Restaurante B,Mercearia,Acucar refinado,kg,10.5,4.94,51.87
+2026-07-25,Restaurante B,Mercearia,Arroz branco tipo 1,kg,6.4,6.89,44.10
+2026-07-25,Restaurante B,Mercearia,Azeite de oliva,L,3.6,47.07,169.45
+2026-07-25,Restaurante B,Mercearia,Farinha de trigo,kg,3.2,5.22,16.70
+2026-07-25,Restaurante B,Mercearia,Massa seca,kg,9.2,8.87,81.60
+2026-07-25,Restaurante B,Mercearia,Molho de tomate,kg,5.7,10.44,59.51
+2026-07-25,Restaurante B,Mercearia,Sal refinado,kg,10.8,2.60,28.08
+2026-07-25,Restaurante B,Padaria,Pao frances,kg,3.0,16.42,49.26
+2026-07-25,Restaurante C,Bebidas,Agua mineral 500ml,un,38,1.67,63.46
+2026-07-25,Restaurante C,Carnes,Acem,kg,13.0,32.63,424.19
+2026-07-25,Restaurante C,Carnes,Bacon em cubos,kg,8.8,35.98,316.62
+2026-07-25,Restaurante C,Carnes,Contrafile,kg,13.5,50.26,678.51
+2026-07-25,Restaurante C,Carnes,Coxa e sobrecoxa,kg,13.6,12.99,176.66
+2026-07-25,Restaurante C,Carnes,File de frango,kg,15.9,19.57,311.16
+2026-07-25,Restaurante C,Carnes,Linguica toscana,kg,13.3,25.37,337.42
+2026-07-25,Restaurante C,Hortifruti,Alface crespa,un,18,3.72,66.96
+2026-07-25,Restaurante C,Hortifruti,Alho,kg,9.6,34.86,334.66
+2026-07-25,Restaurante C,Hortifruti,Batata,kg,17.3,5.03,87.02
+2026-07-25,Restaurante C,Hortifruti,Cenoura,kg,8.7,5.00,43.50
+2026-07-25,Restaurante C,Hortifruti,Tomate,kg,17.9,8.62,154.30
+2026-07-25,Restaurante C,Laticinios,Creme de leite,L,8.6,13.68,117.65
+2026-07-25,Restaurante C,Laticinios,Leite integral,L,5.2,5.71,29.69
+2026-07-25,Restaurante C,Laticinios,Manteiga,kg,15.0,52.75,791.25
+2026-07-25,Restaurante C,Laticinios,Queijo mussarela,kg,11.2,43.83,490.90
+2026-07-25,Restaurante C,Laticinios,Queijo prato,kg,5.5,41.38,227.59
+2026-07-25,Restaurante C,Laticinios,Requeijao,kg,11.2,30.12,337.34
+2026-07-25,Restaurante C,Limpeza,Desinfetante 5L,un,31,20.31,629.61
+2026-07-25,Restaurante C,Limpeza,Detergente 5L,un,28,23.73,664.44
+2026-07-25,Restaurante C,Limpeza,Saco de lixo 100L,un,20,33.22,664.40
+2026-07-25,Restaurante C,Mercearia,Acucar refinado,kg,17.1,4.93,84.30
+2026-07-25,Restaurante C,Mercearia,Arroz branco tipo 1,kg,17.9,6.26,112.05
+2026-07-25,Restaurante C,Mercearia,Azeite de oliva,L,13.3,44.33,589.59
+2026-07-25,Restaurante C,Mercearia,Farinha de trigo,kg,13.9,4.87,67.69
+2026-07-25,Restaurante C,Mercearia,Feijao carioca,kg,17.9,8.14,145.71
+2026-07-25,Restaurante C,Mercearia,Massa seca,kg,14.6,8.36,122.06
+2026-07-25,Restaurante C,Mercearia,Molho de tomate,kg,9.3,10.28,95.60
+2026-07-25,Restaurante C,Mercearia,Oleo de soja,L,5.2,8.62,44.82
+2026-07-25,Restaurante C,Mercearia,Sal refinado,kg,11.8,2.38,28.08
+2026-07-25,Restaurante D,Bebidas,Agua mineral 500ml,un,28,1.69,47.32
+2026-07-25,Restaurante D,Bebidas,Cerveja long neck,un,20,4.25,85.00
+2026-07-25,Restaurante D,Bebidas,Refrigerante 2L,un,32,8.33,266.56
+2026-07-25,Restaurante D,Carnes,Acem,kg,12.1,29.78,360.34
+2026-07-25,Restaurante D,Carnes,Bacon em cubos,kg,7.6,35.38,268.89
+2026-07-25,Restaurante D,Carnes,Contrafile,kg,12.3,47.73,587.08
+2026-07-25,Restaurante D,Carnes,Coxa e sobrecoxa,kg,10.3,12.53,129.06
+2026-07-25,Restaurante D,Carnes,File de frango,kg,15.8,18.05,285.19
+2026-07-25,Restaurante D,Carnes,Linguica toscana,kg,16.5,24.67,407.06
+2026-07-25,Restaurante D,Descartaveis,Guardanapo pacote,un,34,4.43,150.62
+2026-07-25,Restaurante D,Hortifruti,Alface crespa,un,19,3.67,69.73
+2026-07-25,Restaurante D,Hortifruti,Alho,kg,5.2,33.13,172.28
+2026-07-25,Restaurante D,Hortifruti,Batata,kg,5.0,4.96,24.80
+2026-07-25,Restaurante D,Hortifruti,Cenoura,kg,12.5,4.78,59.75
+2026-07-25,Restaurante D,Hortifruti,Tomate,kg,16.8,7.96,133.73
+2026-07-25,Restaurante D,Laticinios,Creme de leite,L,10.1,12.89,130.19
+2026-07-25,Restaurante D,Laticinios,Leite integral,L,15.3,5.34,81.70
+2026-07-25,Restaurante D,Laticinios,Manteiga,kg,12.1,51.25,620.12
+2026-07-25,Restaurante D,Laticinios,Ovos,dz,14,12.45,174.30
+2026-07-25,Restaurante D,Laticinios,Queijo prato,kg,7.9,42.00,331.80
+2026-07-25,Restaurante D,Laticinios,Requeijao,kg,8.1,30.74,248.99
+2026-07-25,Restaurante D,Limpeza,Desinfetante 5L,un,29,19.13,554.77
+2026-07-25,Restaurante D,Limpeza,Detergente 5L,un,36,22.31,803.16
+2026-07-25,Restaurante D,Limpeza,Saco de lixo 100L,un,13,32.18,418.34
+2026-07-25,Restaurante D,Mercearia,Acucar refinado,kg,8.1,4.62,37.42
+2026-07-25,Restaurante D,Mercearia,Arroz branco tipo 1,kg,5.4,6.05,32.67
+2026-07-25,Restaurante D,Mercearia,Azeite de oliva,L,11.6,43.19,501.00
+2026-07-25,Restaurante D,Mercearia,Farinha de trigo,kg,12.3,4.71,57.93
+2026-07-25,Restaurante D,Mercearia,Feijao carioca,kg,11.4,7.71,87.89
+2026-07-25,Restaurante D,Mercearia,Massa seca,kg,5.5,7.95,43.73
+2026-07-25,Restaurante D,Mercearia,Molho de tomate,kg,8.7,9.77,85.00
+2026-07-25,Restaurante D,Mercearia,Oleo de soja,L,16.2,8.69,140.78
+2026-07-25,Restaurante D,Padaria,Pao de hamburguer,un,17,1.91,32.47
+2026-07-25,Restaurante D,Padaria,Pao frances,kg,9.7,15.28,148.22
+2026-07-25,Restaurante E,Bebidas,Agua mineral 500ml,un,17,1.81,30.77
+2026-07-25,Restaurante E,Bebidas,Cerveja long neck,un,10,4.79,47.90
+2026-07-25,Restaurante E,Bebidas,Refrigerante 2L,un,18,9.70,174.60
+2026-07-25,Restaurante E,Carnes,Acem,kg,7.7,33.36,256.87
+2026-07-25,Restaurante E,Carnes,Bacon em cubos,kg,6.0,36.88,221.28
+2026-07-25,Restaurante E,Carnes,Contrafile,kg,10.1,53.84,543.78
+2026-07-25,Restaurante E,Carnes,Coxa e sobrecoxa,kg,8.6,14.22,122.29
+2026-07-25,Restaurante E,Carnes,File de frango,kg,12.7,20.74,263.40
+2026-07-25,Restaurante E,Carnes,Hamburguer 180g,kg,6.8,42.88,291.58
+2026-07-25,Restaurante E,Carnes,Linguica toscana,kg,5.0,27.89,139.45
+2026-07-25,Restaurante E,Descartaveis,Guardanapo pacote,un,20,4.63,92.60
+2026-07-25,Restaurante E,Descartaveis,Luva descartavel cx,un,15,30.89,463.35
+2026-07-25,Restaurante E,Hortifruti,Alface crespa,un,32,3.91,125.12
+2026-07-25,Restaurante E,Hortifruti,Alho,kg,11.2,36.54,409.25
+2026-07-25,Restaurante E,Hortifruti,Batata,kg,4.9,5.33,26.12
+2026-07-25,Restaurante E,Hortifruti,Cenoura,kg,11.3,5.04,56.95
+2026-07-25,Restaurante E,Hortifruti,Tomate,kg,4.8,8.94,42.91
+2026-07-25,Restaurante E,Laticinios,Leite integral,L,12.3,5.84,71.83
+2026-07-25,Restaurante E,Laticinios,Manteiga,kg,10.9,55.07,600.26
+2026-07-25,Restaurante E,Laticinios,Ovos,dz,20,13.84,276.80
+2026-07-25,Restaurante E,Laticinios,Queijo mussarela,kg,9.9,47.13,466.59
+2026-07-25,Restaurante E,Laticinios,Queijo prato,kg,5.5,45.86,252.23
+2026-07-25,Restaurante E,Laticinios,Requeijao,kg,12.4,30.85,382.54
+2026-07-25,Restaurante E,Limpeza,Desinfetante 5L,un,15,20.96,314.40
+2026-07-25,Restaurante E,Limpeza,Detergente 5L,un,17,24.40,414.80
+2026-07-25,Restaurante E,Limpeza,Saco de lixo 100L,un,10,36.37,363.70
+2026-07-25,Restaurante E,Mercearia,Acucar refinado,kg,7.9,4.90,38.71
+2026-07-25,Restaurante E,Mercearia,Arroz branco tipo 1,kg,3.3,6.48,21.38
+2026-07-25,Restaurante E,Mercearia,Azeite de oliva,L,7.5,46.34,347.55
+2026-07-25,Restaurante E,Mercearia,Farinha de trigo,kg,8.9,5.36,47.70
+2026-07-25,Restaurante E,Mercearia,Molho de tomate,kg,9.2,10.65,97.98
+2026-07-25,Restaurante E,Mercearia,Oleo de soja,L,6.0,9.05,54.30
+2026-07-25,Restaurante E,Mercearia,Sal refinado,kg,6.7,2.46,16.48
+2026-07-25,Restaurante E,Padaria,Pao de hamburguer,un,13,1.99,25.87
+2026-07-25,Restaurante E,Padaria,Pao frances,kg,13.1,16.27,213.14
